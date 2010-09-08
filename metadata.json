@@ -1,0 +1,29 @@
+{
+    "maintainer": "YOUR_COMPANY_NAME",
+    "replacing": {
+    },
+    "maintainer_email": "YOUR_EMAIL",
+    "description": "Installs/Configures timezone",
+    "groupings": {
+    },
+    "recommendations": {
+    },
+    "attributes": {
+    },
+    "suggestions": {
+    },
+    "dependencies": {
+    },
+    "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+    "conflicting": {
+    },
+    "platforms": {
+    },
+    "name": "timezone",
+    "version": "0.0.1",
+    "license": "All rights reserved",
+    "recipes": {
+    },
+    "providing": {
+    }
+  }
